@@ -23,7 +23,8 @@ A lightweight packet sniffer written in ''Python 3'' using ''Scapy'', designed f
    ```bash
    pip install scapy
 
-   | Command                                                       | Description                    |
+
+| Command                                                       | Description                    |
 | ------------------------------------------------------------- | ------------------------------ |
 | `python windows_sniffer.py --list-ifaces`                     | Show all network interfaces    |
 | `python windows_sniffer.py -i "Wi-Fi"`                        | Capture all packets on Wi-Fi   |
